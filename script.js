@@ -4,9 +4,9 @@ $(document).ready(function(){
   
   $("#resolution").click(function() {
  
-    var k = prompt("Enter box width that is lower than 100 ");
-    while (k > 100){
-    var k = prompt("Enter box width that is lower than 100 ");
+    var k = prompt("Enter a resolution that is between 1 and 100 Note: Over 65 may cause performance issues");
+    while (k > 100 || k < 1 ){
+    var k = prompt("Enter a resolution that is between 1 and 100 ");
     }
     $('.right').remove(); // remove all divs and start over
 
