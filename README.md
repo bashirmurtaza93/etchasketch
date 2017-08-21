@@ -1,7 +1,7 @@
 # ETCH-A-SKETCH.
-##About:
+## About:
 This small project represents an old classic of etch-a-sketch.
-###You're able to select a multitude of colors, including:
+### You're able to select a multitude of colors, including:
 -Black
 - Red
 - Green
