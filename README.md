@@ -2,7 +2,7 @@
 ## About:
 This small project represents an old classic of etch-a-sketch.
 ### You're able to select a multitude of colors, including:
--Black
+- Black
 - Red
 - Green
 - Yellow
